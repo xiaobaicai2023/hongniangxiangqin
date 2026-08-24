@@ -3,7 +3,7 @@
 
 
 
-# 技术栈 .
+# 技术栈 
 
 后台服务 springboot+mybatisplus+mysql
 用户端 uniapp（vue语法）
